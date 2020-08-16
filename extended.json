@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "We're crazy about Cardano and the exciting future it holds. At Thic Stakes, we are in it for the long haul and want you along for the ride. Please follow our social channels for news and server status.",
-			"server": "Relays and block producing node on Google Cloud.",
+			"server": "We have a globally distributed network with relays in Tokyo, London, and Central US. Our block producing node is completely segregated from our relays so it remains safe and stable. Each server has been tuned for stability and reliability.",
 			"company": "Thic Stakes"
 		},
 		"my-pool-ids": [
